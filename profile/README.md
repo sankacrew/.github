@@ -8,7 +8,7 @@
 
 <h3>🔵🟢💠Profile views💠🟢🔵</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{Sanka-Crew}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{sankacrew}/count.svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true) -->
 
@@ -31,18 +31,18 @@
 
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanka-Crew&theme=radical&show_icons=true&hide_border=true&count_private=true" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanka-Crew&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanka-Crew&theme=radical&hide_border=false" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sankacrew&theme=radical&show_icons=true&hide_border=true&count_private=true" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankacrew&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankacrew&theme=radical&hide_border=false" /> </p>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanka-Crew&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankacrew&theme=radical"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sanka-Crew&theme=radical&show_icons=true&hide_border=false&count_private=true" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanka-Crew&theme=radical&show_icons=true&hide_border=false&layout=compact" height="195" /> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanka-Crew&theme=radical"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankacrew&theme=radical&show_icons=true&hide_border=false&layout=compact" height="195" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankacrew&theme=radical"/>
 </div>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanka-Crew&radius=16&theme=radical&&hide_border=false&area=true&order=5&height=300"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankacrew&radius=16&theme=radical&&hide_border=false&area=true&order=5&height=300"/>
 </div>
 
 ---
@@ -50,7 +50,7 @@
 <div align="center">
   
 ***My Contributions*** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f622/512.gif" alt="😢" width="32" height="32"> <br>
-<img src="https://raw.githubusercontent.com/gmpsankalpa/gmpsankalpa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sankacrew/gmpsankalpa/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -81,10 +81,10 @@
 
 <div align="center">
 
-   ![repo size](https://img.shields.io/github/repo-size/Sanka-Crew/.github?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-   ![GitHub forks](https://img.shields.io/github/forks/Sanka-Crew/.github?&labelColor=black&color=0fb9b1&style=for-the-badge)
-   ![GitHub stars](https://img.shields.io/github/stars/Sanka-Crew/.github?&labelColor=black&color=f7b731&style=for-the-badge)
-   ![GitHub LastCommit](https://img.shields.io/github/last-commit/Sanka-Crew/.github?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+   ![repo size](https://img.shields.io/github/repo-size/sankacrew/.github?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+   ![GitHub forks](https://img.shields.io/github/forks/sankacrew/.github?&labelColor=black&color=0fb9b1&style=for-the-badge)
+   ![GitHub stars](https://img.shields.io/github/stars/sankacrew/.github?&labelColor=black&color=f7b731&style=for-the-badge)
+   ![GitHub LastCommit](https://img.shields.io/github/last-commit/sankacrew/.github?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
 
