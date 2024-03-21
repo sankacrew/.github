@@ -59,8 +59,6 @@
 <!-- 💰 Donation Section -->
 <h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" alt="💸" width="35" height="35"> You can help me by Donating:</h2>
 
----
-
 <p align="center">
   Support my work by buying me a coffee! ☕<br>
   <a href="https://buymeacoffee.com/gmpsankalpa" target="_blank">
