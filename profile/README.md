@@ -19,7 +19,7 @@
 </div>
 
 ----
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="35" height="35"> GitHub Stats:</h2>
+<!-- <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="35" height="35"> GitHub Stats:</h2>
 
 </picture>
 
@@ -36,10 +36,10 @@
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankacrew&theme=radical&hide_border=false" /> </p>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankacrew&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankacrew&theme=radical"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sanka-Crew&theme=radical&show_icons=true&hide_border=false&count_private=true" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankacrew&theme=radical&show_icons=true&hide_border=false&layout=compact" height="195" /> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankacrew&theme=radical"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankacrew&theme=radical"/>
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankacrew&radius=16&theme=radical&&hide_border=false&area=true&order=5&height=300"/>
@@ -52,9 +52,9 @@
 ***My Contributions*** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f622/512.gif" alt="😢" width="32" height="32"> <br>
 <img src="https://raw.githubusercontent.com/sankacrew/gmpsankalpa/output/snake.svg" alt="Snake animation" />
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 <!-- 💰 Donation Section -->
 <h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" alt="💸" width="35" height="35"> You can help me by Donating:</h2>
