@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<h3>🔵🟢💠Profile views💠🟢🔵</h3>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Visitor Count](https://profile-counter.glitch.me/{Sanka-Crew}/count.svg)
+
+<!-- ![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true) -->
+
+<h3>🔵🟢💠VS Code work hours💠🟢🔵</h3>
+
+[![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
+
+</div>
