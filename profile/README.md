@@ -1,5 +1,7 @@
 ![bbefa799786133 5efa9bf3d1b49](https://github.com/sankacrew/.github/assets/123918506/f9c09561-64ea-4472-929d-8f0db98d26c3)
 
+![](./)
+
 <h1 align="center">
   <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" alt="wave" width="35" height="35">
   Hey there, Welcome to Sanka Crew! 
@@ -8,13 +10,13 @@
 
 <div align="center">
 
-<h3>🔵🟢💠Profile views💠🟢🔵</h3>
+<h3>🔵💠Profile views💠🔵</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{sankacrew}/count.svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=gmpsankalpa&abbreviated=true) -->
 
-<h3>🔵🟢💠VS Code work hours💠🟢🔵</h3>
+<h3>🔵💠VS Code work hours💠🔵</h3>
 
 [![wakatime](https://wakatime.com/badge/user/018d535b-bfa6-4a14-b7e8-af0ffa6e870e.svg)](https://wakatime.com/@018d535b-bfa6-4a14-b7e8-af0ffa6e870e)
 
