@@ -1,3 +1,5 @@
+![bbefa799786133 5efa9bf3d1b49](https://github.com/sankacrew/.github/assets/123918506/f9c09561-64ea-4472-929d-8f0db98d26c3)
+
 <h1 align="center">
   <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" alt="wave" width="35" height="35">
   Hey there, Welcome to Sanka Crew! 
