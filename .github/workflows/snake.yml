@@ -27,7 +27,9 @@ jobs:
           # Parse JSON data to extract contributions
           # Example: Extract contribution counts for each member
           # (Replace this with your preferred method)
-          cat contributors.json | jq '.[] | {login: .author.login, contributions: .total}' > contributions.txt
+          cat contributors.json | # Parse JSON data to extract contributions
+jq '.[] | {login: .author.login, contributions: .total}' contributors.json > contributions.txt
+
 
           # Use contributions data to generate snake.svg (modify as needed)
           # Example: Use contributions to generate a custom snake animation
