@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" alt="wave" width="35" height="35">
-  Hey there, Welcome to Sanka Crew! 
+  Hey there, Welcome to VerifiCore! 
   <img src="https://cdn3.emoji.gg/emojis/5042-verified-blue-animated.gif" alt="Verified" width="35" height="35">
 </h1>
 
@@ -74,7 +74,7 @@
 
 <!-- Greeting Section -->
 <h4 align="center">
-  𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 Sanka Crew 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝<br>
+  𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 VerifiCore 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝<br>
   𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
   <br><img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/assets/hi.gif" width="30px">
 </h4>
